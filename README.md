@@ -83,8 +83,8 @@ The analysis showed that the relationship between patch size and bird abundance 
 <br>
 
 <p align="center">
-<img width="400" alt="Patch_1" src="https://github.com/user-attachments/assets/758ce68a-3d0a-48fa-a630-32225d7225cf"/>
-<img width="400" alt="Patch_2" src="https://github.com/user-attachments/assets/2f9814e9-ecd9-4a4f-9ffd-b6c32ba04a86"/>
+<img width="450" alt="Patch_1" src="https://raw.githubusercontent.com/Julie-AnnB/Resources/main/Patch_1.png"/>
+<img width="450" alt="Patch_2" src="https://raw.githubusercontent.com/Julie-AnnB/Resources/main/Patch_2.png"/>
 </p>
 
 <br> 
