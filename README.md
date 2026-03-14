@@ -145,8 +145,6 @@ Data Visualisation, Validity, Reliability, Floor and Ceiling Effects.
 <img width="600" src="/PP_clip.gif"/>
 </p>
 
-<img width="700" src="https://raw.githubusercontent.com/Julie-AnnB/Resources/main/PP_clip.gif"/>
-
 
 **Tech Software**  
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
