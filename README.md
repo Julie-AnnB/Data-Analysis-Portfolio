@@ -113,7 +113,7 @@ Furthermore, experienced skippers who used sophisticated search equipment caught
 <br>
 
 <p align="center">
-<img width="500" src="Time.png" alt="Time vs Experience"/>
+<img width="600" src="Time.png" alt="Time vs Experience"/>
 </p>
 
 **Conclusion**  
@@ -142,7 +142,7 @@ Data Visualisation, Validity, Reliability, Floor and Ceiling Effects.
 <br>
 
 <p align="center">
-<img width="500" src="/Clip.gif"/>
+<img width="600" src="/Clip.gif"/>
 </p>
 
 
