@@ -83,8 +83,8 @@ The analysis showed that the relationship between patch size and bird abundance 
 <br>
 
 <p align="center">
-<img width="450" alt="Patch_1" src="https://github.com/user-attachments/assets/758ce68a-3d0a-48fa-a630-32225d7225cf"/>
-<img width="450" alt="Patch_2" src="https://github.com/user-attachments/assets/2f9814e9-ecd9-4a4f-9ffd-b6c32ba04a86"/>
+<img width="400" alt="Patch_1" src="https://github.com/user-attachments/assets/758ce68a-3d0a-48fa-a630-32225d7225cf"/>
+<img width="400" alt="Patch_2" src="https://github.com/user-attachments/assets/2f9814e9-ecd9-4a4f-9ffd-b6c32ba04a86"/>
 </p>
 
 <br> 
@@ -113,7 +113,7 @@ Furthermore, experienced skippers who used sophisticated search equipment caught
 <br>
 
 <p align="center">
-<img width="850" src="Time.png" alt="Time vs Experience"/>
+<img width="700" src="Time.png" alt="Time vs Experience"/>
 </p>
 
 **Conclusion**  
@@ -142,7 +142,7 @@ Data Visualisation, Validity, Reliability, Floor and Ceiling Effects.
 <br>
 
 <p align="center">
-<img width="600" src="/Clip.gif"/>
+<img width="500" src="/Clip.gif"/>
 </p>
 
 
