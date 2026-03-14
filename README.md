@@ -50,7 +50,7 @@ This repository displays several projects that demonstrate my ability to analyse
 ## [Vehicle Age & Passenger Impact on Tire-Related Fatalities in Ford SUVs (1995-1999) 📌](https://github.com/Julie-AnnB/Resources/blob/main/Tire_Related_Accidents.md)
 
 **Task**  
-The aim of the study was to examine data on tire-related fatal car accidents and to uncover whether, among the observed cases, the odds of such crashes were significantly higher for Ford Explorers compared to other car makes, after accounting for vehicle age and passenger numbers. Additionally, the study sought out to test if the number of passengers and the vehicle's model year were related to the odds of tire-related accidents. This was assessed to address concerns that heavy loads or car age may have contributed to these cases. Finally, the analysis was used to develop a statistical model predicting the odds of tire-related accidents based on car make, number of passengers and vehicle age.
+The aim of the study was to examine data on tire-related fatal car accidents and to uncover whether, among the observed cases, the odds of such crashes were significantly higher for Ford Explorers compared to other car makes, after accounting for vehicle age and passenger numbers. Additionally, the study sought to test if the number of passengers and the vehicle's model year were related to the odds of tire-related accidents. This was assessed to address concerns that heavy loads or car age may have contributed to these cases. Finally, the analysis was used to develop a statistical model predicting the odds of tire-related accidents based on car make, number of passengers and vehicle age.
 
 **Findings**  
 The analysis showed that Ford SUVs had a higher probability of being involved in tire-related accidents than other car makes (Figure below).
@@ -89,7 +89,7 @@ The analysis showed that the relationship between patch size and bird abundance 
 <br> 
 
 **Conclusion**  
-It might be important investigate why only light and heavy grazing intensities were significantly different, as this may signal that unidentified predictors mediate the relationship between grazing intensities and bird abundance (supports by the unexplained leftover 30% variance). Lastly, the results may have practical implications for land developers: increase patch sizes and reduce grazing practices to boost bird numbers
+It might be important to investigate why only light and heavy grazing intensities were significantly different, as this may signal that unidentified predictors mediate the relationship between grazing intensities and bird abundance (supported by the unexplained leftover 30% variance). Lastly, the results may have practical implications for land developers: increase patch sizes and reduce grazing practices to boost bird numbers
 
 **Statistic Skills**  
 Data visualisation, hypothesis testing, multiple regression.
@@ -130,7 +130,7 @@ Data cleaning, pivot tables, t-tests, data visualisation.
 ## [Evaluation of Best Psychometric Test for Resilience Among Elder Australians 📌](https://github.com/Julie-AnnB/Resources/blob/main/Psychometric_testing_PP.pdf)
 
 **Task**  
-Select the most psychometrically sound scale to measure resilience among late adult Australians. In particular, the Connor-Davidson Resilience Scale (Connor & Davidson, 2003) versus the RS25 (Wagnild & Young, 1993). The task involved research on the characterisitcs of elder Australians and how to define and measure the concept of resiliance. 
+Select the most psychometrically sound scale to measure resilience among late adult Australians. In particular, the Connor-Davidson Resilience Scale (Connor & Davidson, 2003) versus the RS25 (Wagnild & Young, 1993). The task involved research on the characteristics of elder Australians and how to define and measure the concept of resilience. 
 
 **Findings**  
 As the original RS was developed with an old adult sample, its cross-cultural stability and shorter time to complete, it was a more appropriate scale to reflect and measure resilience among old adult Australians.
