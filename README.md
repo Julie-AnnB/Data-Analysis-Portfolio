@@ -113,7 +113,7 @@ Furthermore, experienced skippers who used sophisticated search equipment caught
 <br>
 
 <p align="center">
-<img width="700" src="Time.png" alt="Time vs Experience"/>
+<img width="500" src="Time.png" alt="Time vs Experience"/>
 </p>
 
 **Conclusion**  
