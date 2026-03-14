@@ -8,10 +8,8 @@
 
 &nbsp;&nbsp;***R / Statistical Analysis***
 
-- [Vehicle Age & Passenger Impact on Tire-Related Fatalities in Ford SUVs (1995-1999)](#vehicle-age--passenger-impact-on-tire-related-fatalities-in-ford-suvs-1995-1999-)
-  
+- [Vehicle Age & Passenger Impact on Tire-Related Fatalities in Ford SUVs (1995-1999)](#vehicle-age--passenger-impact-on-tire-related-fatalities-in-ford-suvs-1995-1999-) 
 <br>
-
 - [The Effects of Land Characteristics on Animal Abundance](#the-effects-of-land-characteristics-on-animal-abundance-)
 
 &nbsp;&nbsp;***Excel / Data Analysis***
