@@ -142,7 +142,7 @@ Data Visualisation, Validity, Reliability, Floor and Ceiling Effects.
 <br>
 
 <p align="center">
-<img width="600" src="/PP_clip.gif"/>
+<img width="600" src="/PP.gif"/>
 </p>
 
 
