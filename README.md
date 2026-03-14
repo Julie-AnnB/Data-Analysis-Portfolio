@@ -80,7 +80,6 @@ The aim of this study was to examine how forest fragmentation affects bird abund
 The analysis showed that the relationship between patch size and bird abundance was positive: larger patches held larger bird numbers. In the figure below (Left) the black line represents the relationship between patch size and bird abundance. The prediction intervals (red dotted lines) show the model was more accurate for patches under 5 ha. Note: the patch axis has been magnified to improve visibility. Further, the relationship between light and heavy grazing practices can be explained by a parallel linear relationship (Figure Right). The red line represent bird abundance in patches with light grazing and black line represent bird abundance in heavily grazed patches. The parallel model suggests that lightly grazed patches support more birds than the heavily grazed plots, while holding patch size constant.
 
 <br>
-<br>
 
 <p align="center">
 <img width="450" alt="Patch_1" src="https://raw.githubusercontent.com/Julie-AnnB/Resources/main/Patch_1.png"/>
