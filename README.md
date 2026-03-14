@@ -59,10 +59,8 @@ The analysis showed that Ford SUVs had a higher probability of being involved in
 The results of the study supported both predictions. In particular, the analysis suggested that the odds for Ford vehicles were about 17 times higher than other SUVs. Furthermore, the findings showed that each extra year in car age more than doubled the odds of a tire-related accident, while each additional passenger nearly doubled the odds. Simply put, heavier loads and older cars, increased the odds for Ford tire-related crashes compared to other makes.
 
 <p align="center">
-<img width="807" height="508" alt="Ford_vs_other" src="[https://github.com/user-attachments/assets/a0565879-bd64-4e44-9d25-cc4e454610b1](https://github.com/Julie-AnnB/Resources/blob/main/Ford_vs_other.png)"/>
+<img width="807" height="508" alt="Ford_vs_other" src="https://github.com/user-attachments/assets/a0565879-bd64-4e44-9d25-cc4e454610b1"/>
 </p>
-
-https://github.com/Julie-AnnB/Resources/blob/main/Ford_vs_other.png
 
 **Statistic Skills**  
 Data wrangling, data visualisation, hypothesis testing, logistic regression.
