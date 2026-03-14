@@ -1,5 +1,7 @@
 # Table of Contents
 
+<br>
+
 [About](#about)
 
 [Tech Stack](#tech-stack)
@@ -69,7 +71,7 @@ Data wrangling, data visualisation, hypothesis testing, logistic regression.
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-<br>
+---
 
 ## [The Effects of Land Characteristics on Animal Abundance 📌](https://github.com/Julie-AnnB/Resources/blob/main/Abundance_Quarto_Final_2.md)
 
@@ -98,7 +100,7 @@ Data visualisation, hypothesis testing, multiple regression.
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white)
 
-<br>
+---
 
 ## [Data analysis of factors related to fish quantity caught in Tasmanian waters 📌](https://github.com/Julie-AnnB/Resources/blob/main/Excel%20write%20up.pdf)
 
@@ -125,7 +127,7 @@ Data cleaning, pivot tables, t-tests, data visualisation.
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-<br>
+---
 
 ## [Evaluation of Best Psychometric Test for Resilience Among Elder Australians 📌](https://github.com/Julie-AnnB/Resources/blob/main/Psychometric_testing_PP.pdf)
 
@@ -149,7 +151,7 @@ Data Visualisation, Validity, Reliability, Floor and Ceiling Effects.
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-<br>
+---
 
 # My Certificates
 
