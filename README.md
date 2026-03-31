@@ -157,6 +157,3 @@ Data Visualisation, Validity, Reliability, Floor and Ceiling Effects.
 
 Google Data Analytics Professional Certificate (in progress)
 
-# Contact Me
-
-email@email.com
