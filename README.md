@@ -160,11 +160,8 @@ Data Visualisation, Validity, Reliability, Floor and Ceiling Effects.
 I can create simple web sites using Elementor.
 
 <p align="center">
-  <video width="600" controls>
-    <source src="./Web%20Site.mp4" type="video/mp4">
-  </video>
+  <img width="600" src="./Web_site_GIF.gif">
 </p>
-
 
 
 # My Certificates
