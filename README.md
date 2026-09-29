@@ -1,3 +1,4 @@
+<img width="800" height="1319" alt="APS" src="https://github.com/user-attachments/assets/a7e9a9b2-fc5b-489f-8222-3e8aef6dafb5" />
 # Table of Contents
 
 <br>
@@ -159,7 +160,9 @@ I can create simple web sites using Elementor
 <br>
 
 <p align="center">
-<img width="600" src="/Clip.gif"/>
+<img width="800" height="1319" alt="APS" src="https://github.com/user-attachments/assets/63d99d94-98de-4a21-a00f-c1c7fceacad0" />
+
+  
 </p>
 
 # My Certificates
