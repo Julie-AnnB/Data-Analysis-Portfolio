@@ -25,7 +25,7 @@
 
 &nbsp;&nbsp;***Web Site Building Skills***
 
-- [Design and Development of a Professional Business Website Using Elementor](#design--and--Development--of--a--Professional--Business--Website--Using--Elementor-)
+- [Design and Development of a Professional Business Website Using Elementor](#design-and-development-of-a-professional-business-website-using-elementor-)
 
 [My Certificates](#my-certificates)
 
