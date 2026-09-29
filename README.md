@@ -161,14 +161,22 @@ Data Visualisation, Validity, Reliability, Floor and Ceiling Effects.
 
 ## [Design and Development of a Professional Business Website Using Elementor 📌](https://github.com/Julie-AnnB/Resources/blob/main/Web_Site_GIF.gif)
 
-I can create simple web sites using Elementor.
+**Task**
+
+Design and develop a professional business website using WordPress and Elementor. The task involved creating a clear and visually engaging website structure, organising business information and services, and applying web design principles to produce a simple, user-friendly website suitable for a business.
 
 <br>
 
 <p align="center">
-  <img width="650" src="https://raw.githubusercontent.com/Julie-AnnB/Resources/main/Web_Site_GIF.gif">
+  <img width="600" src="https://raw.githubusercontent.com/Julie-AnnB/Resources/main/Web_Site_GIF.gif">
 </p>
 
+<br>
+
+**Tech Software**  
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
 # My Certificates
 
