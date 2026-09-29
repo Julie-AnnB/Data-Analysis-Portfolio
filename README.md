@@ -153,6 +153,15 @@ Data Visualisation, Validity, Reliability, Floor and Ceiling Effects.
 
 ---
 
+**Web Site Building Skills**  
+I can create simple web sites using Elementor 
+
+<br>
+
+<p align="center">
+<img width="600" src="/Clip.gif"/>
+</p>
+
 # My Certificates
 
 Google Data Analytics Professional Certificate (in progress)
