@@ -153,13 +153,13 @@ Data Visualisation, Validity, Reliability, Floor and Ceiling Effects.
 
 ---
 
-**Web Site Building Skills**  
-I can create simple web sites using Elementor 
+**Web Site Building Skills**
+
+I can create simple web sites using Elementor.
 
 <p align="center">
-<img hight="900" src="/https://github.com/user-attachments/assets/22068b5a-3d43-4ad0-8157-d6cf66f4e5e6"/>
+  <img height="900" src="https://github.com/user-attachments/assets/22068b5a-3d43-4ad0-8157-d6cf66f4e5e6"/>
 </p>
-
 
 
 
