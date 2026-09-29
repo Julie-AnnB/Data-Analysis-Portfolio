@@ -25,7 +25,7 @@
 
 &nbsp;&nbsp;***Web Site Building Skills***
 
-- [Business Website Design and Development Using Elementor](#web-site-building-skills)
+- [Design and Development of a Professional Business Website Using Elementor](#design--and--Development--of--a--Professional--Business--Website--Using--Elementor-)
 
 [My Certificates](#my-certificates)
 
@@ -159,16 +159,14 @@ Data Visualisation, Validity, Reliability, Floor and Ceiling Effects.
 
 ---
 
-## [Design and Development of a Professional Business Website Using Elementor 📌](https://...)
-
-## Web Site Building Skills
+## [Design and Development of a Professional Business Website Using Elementor 📌](https://github.com/Julie-AnnB/Resources/blob/main/Web_Site_GIF.gif)
 
 I can create simple web sites using Elementor.
 
 <br>
 
 <p align="center">
-  <img width="650" src="https://raw.githubusercontent.com/Julie-AnnB/Resources/main/Web_site_GIF.gif">
+  <img width="650" src="https://raw.githubusercontent.com/Julie-AnnB/Resources/main/Web_Site_GIF.gif">
 </p>
 
 
